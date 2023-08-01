@@ -1,0 +1,7 @@
+.Image{
+  width: 200px;
+  border:1px solid white;
+  border-radius: 50%;
+  display: flex;
+  justify-items: center;
+}
