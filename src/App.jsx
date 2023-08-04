@@ -8,7 +8,7 @@ function App() {
 
 
   return (
-    <div className=' flex justify-center bg-orange-600'>
+    <div className='h-screen items-center flex justify-center bg-orange-600'>
 
 
       {/* <Home /> */}
